@@ -3,7 +3,7 @@
 ## Title of Your Project: 
 ### Exploring the Impact of Musical Features on Track Popularity: A Spotify Data Analysis"
 
-### AAI-500 – Team Project Status Update Form
+
 
 #### Team Number: 08
 
