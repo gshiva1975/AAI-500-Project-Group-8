@@ -32,9 +32,11 @@ The first goal is to explore the dataset through visualizations and summary stat
 
 ##### Linear Regression:
 A linear regression model will be built to predict the popularity of tracks based on their musical features, such as tempo, energy, and danceability. This will help us understand which features are the strongest predictors of a track's success.
-Correlation Analysis:
+
+#### Correlation Analysis:
 Correlation analysis will be performed to identify relationships between numerical features, such as energy and danceability. This will help determine how various features are related to one another and whether they have an impact on a track's popularity.
-Project Submission::
+
+#### Project Submission:
 Prepare and Submit artifacts for the project - (Reports, Videos etc)
 
 
